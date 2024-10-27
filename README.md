@@ -10,7 +10,7 @@
 | Section  |Date| 완료 |
 |----------|--| -- |
 | Section1 |2024.04.13 SAT| ✅ |
-| Section2 ~ 3 |2024.04.17 WED| ✅ |
+| Section2 ~ 3 |2024.04.17 WED| ✅ |
 | Section4 ~ 5 |2024.04.21 SUN|   |
 | Section6 ~ 7 |2024.04.24 SAT|   |
 
